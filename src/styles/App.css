@@ -1,0 +1,16 @@
+#max-sum-holder{
+    display: flex;
+    flex-direction: row;
+}
+#range-a-holder{
+    
+    display: flex;
+    flex-direction: row;
+    width: 20%;
+}
+#range-b-holder{
+    
+    display: flex;
+    flex-direction: row;
+    width: 20%;
+}
