@@ -29,6 +29,7 @@ const App = () => {
 
   }
   function cha(e){
+    
     let max=e.target.value
     setInt(max)
     setVal2(max)
